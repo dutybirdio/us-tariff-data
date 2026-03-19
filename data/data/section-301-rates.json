@@ -1,0 +1,76 @@
+[
+  {
+    "country": "China",
+    "country_code": "CN",
+    "rate_range_min": 30,
+    "rate_range_max": 145,
+    "effective_rate_oct2025": 37.4,
+    "legal_authority": "Section 301 Trade Action",
+    "lists_applicable": ["List 1", "List 2", "List 3", "List 4A"],
+    "list_rates": {
+      "list_1": 25,
+      "list_2": 25,
+      "list_3": 7.5,
+      "list_4a": 7.5
+    },
+    "first_effective_date": "2018-07-06",
+    "source": "USITC Harmonized Tariff Schedule, Federal Register, Penn Wharton Budget Model",
+    "source_url": "https://hts.usitc.gov",
+    "updated_at": "2026-03-19"
+  },
+  {
+    "country": "Vietnam",
+    "country_code": "VN",
+    "rate_range_min": 46,
+    "rate_range_max": 50,
+    "legal_authority": "Reciprocal Tariffs (IEEPA)",
+    "lists_applicable": [],
+    "first_effective_date": "2025-04-05",
+    "source": "Federal Register, USITC",
+    "source_url": "https://hts.usitc.gov",
+    "updated_at": "2026-03-19"
+  },
+  {
+    "country": "Bangladesh",
+    "country_code": "BD",
+    "rate_range_min": 37,
+    "rate_range_max": 42,
+    "legal_authority": "Reciprocal Tariffs (IEEPA)",
+    "lists_applicable": [],
+    "first_effective_date": "2025-04-05",
+    "source": "Federal Register, USITC",
+    "source_url": "https://hts.usitc.gov",
+    "updated_at": "2026-03-19"
+  },
+  {
+    "country": "Taiwan",
+    "country_code": "TW",
+    "rate_range_min": 32,
+    "rate_range_max": 37,
+    "legal_authority": "Reciprocal Tariffs (IEEPA)",
+    "lists_applicable": [],
+    "first_effective_date": "2025-04-05",
+    "source": "Federal Register, USITC",
+    "source_url": "https://hts.usitc.gov",
+    "updated_at": "2026-03-19"
+  },
+  {
+    "country": "India",
+    "country_code": "IN",
+    "rate_range_min": 26,
+    "rate_range_max": 31,
+    "legal_authority": "Reciprocal Tariffs (IEEPA)",
+    "lists_applicable": [],
+    "first_effective_date": "2025-04-05",
+    "source": "Federal Register, USITC",
+    "source_url": "https://hts.usitc.gov",
+    "updated_at": "2026-03-19"
+  },
+  {
+    "country": "South Korea",
+    "country_code": "KR",
+    "rate_range_min": 25,
+    "rate_range_max": 26,
+    "legal_authority": "KORUS FTA + Reciprocal Tariffs",
+    "lists_applicable": [],
+    "first_effective_date": "2025-04-0
