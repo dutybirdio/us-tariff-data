@@ -1,0 +1,53 @@
+[
+  {
+    "period": "2026-02",
+    "period_label": "February 2026",
+    "collections_billions": 26.6,
+    "fytd_billions": 144.3,
+    "yoy_change_pct": 308,
+    "prior_fytd_billions": 35.4,
+    "source": "US Treasury Monthly Treasury Statement, Table 9",
+    "source_url": "https://fiscaldata.treasury.gov/datasets/monthly-treasury-statement/",
+    "updated_at": "2026-03-19"
+  },
+  {
+    "period": "2026-01",
+    "period_label": "January 2026",
+    "collections_billions": 25.1,
+    "fytd_billions": 117.7,
+    "yoy_change_pct": 298,
+    "source": "US Treasury Monthly Treasury Statement, Table 9",
+    "source_url": "https://fiscaldata.treasury.gov/datasets/monthly-treasury-statement/",
+    "updated_at": "2026-03-19"
+  },
+  {
+    "period": "2025-12",
+    "period_label": "December 2025",
+    "collections_billions": 24.8,
+    "fytd_billions": 92.6,
+    "yoy_change_pct": 285,
+    "source": "US Treasury Monthly Treasury Statement, Table 9",
+    "source_url": "https://fiscaldata.treasury.gov/datasets/monthly-treasury-statement/",
+    "updated_at": "2026-03-19"
+  },
+  {
+    "period": "2025-11",
+    "period_label": "November 2025",
+    "collections_billions": 28.9,
+    "fytd_billions": 67.8,
+    "yoy_change_pct": 310,
+    "source": "US Treasury Monthly Treasury Statement, Table 9",
+    "source_url": "https://fiscaldata.treasury.gov/datasets/monthly-treasury-statement/",
+    "updated_at": "2026-03-19"
+  },
+  {
+    "period": "2025-10",
+    "period_label": "October 2025",
+    "collections_billions": 38.9,
+    "fytd_billions": 38.9,
+    "yoy_change_pct": 340,
+    "source": "US Treasury Monthly Treasury Statement, Table 9",
+    "source_url": "https://fiscaldata.treasury.gov/datasets/monthly-treasury-statement/",
+    "updated_at": "2026-03-19"
+  }
+]
