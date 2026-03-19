@@ -1,0 +1,160 @@
+[
+  {
+    "document_number": "2025-21671",
+    "title": "Notice of Product Exclusion Extensions: China Section 301 Investigation",
+    "agency": "USTR",
+    "publication_date": "2025-12-01",
+    "effective_date": "2025-11-30",
+    "expiry_date": "2026-11-10",
+    "type": "exclusion_extension",
+    "summary": "Extension of 178 product exclusions from Section 301 additional duties on Chinese goods through November 10, 2026, following US-China trade agreement announced November 1, 2025.",
+    "hts_codes_affected": [
+      "9903.88.69",
+      "9903.88.70"
+    ],
+    "exclusions_count": 178,
+    "url": "https://www.federalregister.gov/documents/2025/12/01/2025-21671",
+    "updated_at": "2026-03-19"
+  },
+  {
+    "document_number": "2025-18432",
+    "title": "Notice of Modification of Section 301 Action: China Targeting of Maritime, Logistics, and Shipbuilding Sectors",
+    "agency": "USTR",
+    "publication_date": "2025-09-16",
+    "effective_date": "2025-10-14",
+    "expiry_date": null,
+    "type": "rate_modification",
+    "summary": "New Section 301 fees on Chinese vessel operators and Chinese-built ships calling at US ports. Fees scale by vessel type and cargo capacity.",
+    "hts_codes_affected": [],
+    "exclusions_count": 0,
+    "url": "https://www.federalregister.gov/documents/2025/09/16/2025-18432",
+    "updated_at": "2026-03-19"
+  },
+  {
+    "document_number": "2025-14289",
+    "title": "Addressing Certain Tariffs on Imported Articles — Executive Order Implementation",
+    "agency": "USTR",
+    "publication_date": "2025-04-05",
+    "effective_date": "2025-04-05",
+    "expiry_date": null,
+    "type": "rate_increase",
+    "summary": "Implementation of reciprocal tariffs under IEEPA on imports from multiple countries. Vietnam 46-50%, Bangladesh 37-42%, Taiwan 32-37%, India 26-31%, South Korea 25-26%.",
+    "hts_codes_affected": [],
+    "countries_affected": [
+      "Vietnam",
+      "Bangladesh",
+      "Taiwan",
+      "India",
+      "South Korea",
+      "European Union"
+    ],
+    "exclusions_count": 0,
+    "url": "https://www.federalregister.gov/documents/2025/04/05/2025-14289",
+    "updated_at": "2026-03-19"
+  },
+  {
+    "document_number": "2025-09876",
+    "title": "Section 232 Steel and Aluminum Tariff Inclusions Process",
+    "agency": "Commerce",
+    "publication_date": "2025-03-12",
+    "effective_date": "2025-03-12",
+    "expiry_date": null,
+    "type": "rate_modification",
+    "summary": "Expansion of Section 232 steel and aluminum tariffs to cover derivative products. 25% additional duty on steel articles and 10% on aluminum articles from most countries.",
+    "hts_codes_affected": [],
+    "countries_affected": [
+      "European Union",
+      "United Kingdom",
+      "Japan",
+      "South Korea"
+    ],
+    "exclusions_count": 0,
+    "url": "https://www.federalregister.gov/documents/2025/03/12/2025-09876",
+    "updated_at": "2026-03-19"
+  },
+  {
+    "document_number": "2025-07234",
+    "title": "Adjusting Imports of Copper into the United States",
+    "agency": "Commerce",
+    "publication_date": "2025-02-25",
+    "effective_date": "2025-03-12",
+    "expiry_date": null,
+    "type": "new_tariff",
+    "summary": "New Section 232 investigation and tariff action on copper imports. 25% additional duty proposed on copper and copper alloy products.",
+    "hts_codes_affected": [
+      "7401",
+      "7402",
+      "7403",
+      "7404",
+      "7405",
+      "7408"
+    ],
+    "exclusions_count": 0,
+    "url": "https://www.federalregister.gov/documents/2025/02/25/2025-07234",
+    "updated_at": "2026-03-19"
+  },
+  {
+    "document_number": "2024-19876",
+    "title": "Notice of Modification: Four-Year Review — Section 301 Tariff Increases on Chinese Products",
+    "agency": "USTR",
+    "publication_date": "2024-09-13",
+    "effective_date": "2024-09-27",
+    "expiry_date": null,
+    "type": "rate_increase",
+    "summary": "Results of four-year review of Section 301 tariffs. EVs increased to 100%, lithium-ion batteries to 25%, solar cells to 50%, semiconductors to 50% effective January 1 2025, medical gloves to 50%.",
+    "hts_codes_affected": [
+      "8703",
+      "8507.60",
+      "8541.40",
+      "8542",
+      "6116"
+    ],
+    "countries_affected": ["China"],
+    "exclusions_count": 0,
+    "url": "https://www.federalregister.gov/documents/2024/09/13/2024-19876",
+    "updated_at": "2026-03-19"
+  },
+  {
+    "document_number": "2026-04521",
+    "title": "Modifying Reciprocal Tariff Rates — Further Adjustment",
+    "agency": "USTR",
+    "publication_date": "2026-02-14",
+    "effective_date": "2026-02-14",
+    "expiry_date": null,
+    "type": "rate_modification",
+    "summary": "Further modification of reciprocal tariff rates under IEEPA. Adjustments to rates for select countries following bilateral trade negotiations.",
+    "hts_codes_affected": [],
+    "countries_affected": [
+      "Multiple"
+    ],
+    "exclusions_count": 0,
+    "url": "https://www.federalregister.gov/documents/2026/02/14/2026-04521",
+    "updated_at": "2026-03-19"
+  },
+  {
+    "document_number": "2026-02187",
+    "title": "Addressing Threats to the United States by the Government of Brazil",
+    "agency": "USTR",
+    "publication_date": "2026-01-22",
+    "effective_date": "2026-02-01",
+    "expiry_date": null,
+    "type": "new_tariff",
+    "summary": "New tariff action on imports from Brazil under IEEPA emergency authority addressing trade practices and market access issues.",
+    "hts_codes_affected": [],
+    "countries_affected": ["Brazil"],
+    "exclusions_count": 0,
+    "url": "https://www.federalregister.gov/documents/2026/01/22/2026-02187",
+    "updated_at": "2026-03-19"
+  }
+]
+```
+
+Commit description:
+```
+8 key Federal Register tariff notices 
+from 2024-2026. Includes Section 301 
+exclusion extensions, IEEPA reciprocal 
+tariffs, Section 232 actions, and 
+four-year review modifications. 
+Source: Federal Register, USTR. 
+Updated by DutyBird (dutybird.io).
