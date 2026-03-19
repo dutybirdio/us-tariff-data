@@ -1,0 +1,77 @@
+[
+  {
+    "hts_code": "8473.30.1180",
+    "ch99_heading": "9903.88.69",
+    "description": "Printed circuit assemblies for rendering images onto computer screens",
+    "list_number": 3,
+    "list_rate_pct": 7.5,
+    "expires_at": "2026-11-10",
+    "status": "active",
+    "source_doc": "FR Doc 2025-21671",
+    "source_url": "https://www.federalregister.gov/documents/2025/12/01/2025-21671",
+    "updated_at": "2026-03-19"
+  },
+  {
+    "hts_code": "8542.31.0001",
+    "ch99_heading": "9903.88.69",
+    "description": "Processors and controllers, electronic integrated circuits",
+    "list_number": 3,
+    "list_rate_pct": 7.5,
+    "expires_at": "2026-11-10",
+    "status": "active",
+    "source_doc": "FR Doc 2025-21671",
+    "source_url": "https://www.federalregister.gov/documents/2025/12/01/2025-21671",
+    "updated_at": "2026-03-19"
+  },
+  {
+    "hts_code": "8542.39.0001",
+    "ch99_heading": "9903.88.69",
+    "description": "Electronic integrated circuits, memories and amplifiers",
+    "list_number": 3,
+    "list_rate_pct": 7.5,
+    "expires_at": "2026-11-10",
+    "status": "active",
+    "source_doc": "FR Doc 2025-21671",
+    "source_url": "https://www.federalregister.gov/documents/2025/12/01/2025-21671",
+    "updated_at": "2026-03-19"
+  },
+  {
+    "hts_code": "8473.30.5100",
+    "ch99_heading": "9903.88.69",
+    "description": "Printed circuit assemblies for automatic data processing machines",
+    "list_number": 3,
+    "list_rate_pct": 7.5,
+    "expires_at": "2026-11-10",
+    "status": "active",
+    "source_doc": "FR Doc 2025-21671",
+    "source_url": "https://www.federalregister.gov/documents/2025/12/01/2025-21671",
+    "updated_at": "2026-03-19"
+  },
+  {
+    "hts_code": "8517.62.0050",
+    "ch99_heading": "9903.88.69",
+    "description": "Machines for reception and transmission of voice, images or data",
+    "list_number": 3,
+    "list_rate_pct": 7.5,
+    "expires_at": "2026-11-10",
+    "status": "active",
+    "source_doc": "FR Doc 2025-21671",
+    "source_url": "https://www.federalregister.gov/documents/2025/12/01/2025-21671",
+    "updated_at": "2026-03-19"
+  },
+  {
+    "hts_code": "8479.89.9599",
+    "ch99_heading": "9903.88.69",
+    "description": "Machines and mechanical appliances, industrial, not elsewhere specified",
+    "list_number": 3,
+    "list_rate_pct": 7.5,
+    "expires_at": "2026-11-10",
+    "status": "active",
+    "source_doc": "FR Doc 2025-21671",
+    "source_url": "https://www.federalregister.gov/documents/2025/12/01/2025-21671",
+    "updated_at": "2026-03-19"
+  },
+  {
+    "hts_code": "8481.80.9040",
+    "ch99_heading": "9903.88.69",
+    "description"
