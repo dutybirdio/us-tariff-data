@@ -2,11 +2,23 @@
   {
     "_metadata": {
       "source": "DutyBird (dutybird.io)",
-      "generated_at": "2026-03-20T00:15:58.825Z",
+      "generated_at": "2026-03-20T06:00:01.963Z",
       "record_count": 10,
       "license": "MIT",
       "docs": "https://github.com/dutybirdio/us-tariff-data"
     }
+  },
+  {
+    "country": "China",
+    "min_rate": 30,
+    "max_rate": 145,
+    "rate_label": "30–145%",
+    "legal_authority": "Section 301",
+    "effective_date": null,
+    "source_name": "ai_extraction",
+    "source_url": "https://www.federalregister.gov/d/2026-03770",
+    "confidence": "high",
+    "updated_at": "2026-03-20T03:00:07.599249+00:00"
   },
   {
     "country": "Vietnam",
@@ -18,7 +30,7 @@
     "source_name": "ai_extraction",
     "source_url": null,
     "confidence": "medium",
-    "updated_at": "2026-03-19T03:00:08.103671+00:00"
+    "updated_at": "2026-03-20T03:00:07.697615+00:00"
   },
   {
     "country": "Bangladesh",
@@ -30,7 +42,7 @@
     "source_name": "ai_extraction",
     "source_url": null,
     "confidence": "medium",
-    "updated_at": "2026-03-19T03:00:08.617185+00:00"
+    "updated_at": "2026-03-20T03:00:08.119163+00:00"
   },
   {
     "country": "Taiwan",
@@ -42,7 +54,7 @@
     "source_name": "ai_extraction",
     "source_url": null,
     "confidence": "medium",
-    "updated_at": "2026-03-19T03:00:08.868618+00:00"
+    "updated_at": "2026-03-20T03:00:08.313623+00:00"
   },
   {
     "country": "India",
@@ -54,19 +66,7 @@
     "source_name": "ai_extraction",
     "source_url": null,
     "confidence": "medium",
-    "updated_at": "2026-03-19T03:00:08.416133+00:00"
-  },
-  {
-    "country": "China",
-    "min_rate": 3,
-    "max_rate": 28,
-    "rate_label": "3–28%",
-    "legal_authority": "Section 301 / EO 14389",
-    "effective_date": null,
-    "source_name": "ai_extraction",
-    "source_url": "federalregister.gov",
-    "confidence": "high",
-    "updated_at": "2026-03-19T03:00:07.965009+00:00"
+    "updated_at": "2026-03-20T03:00:07.963962+00:00"
   },
   {
     "country": "South Korea",
@@ -78,7 +78,19 @@
     "source_name": "ai_extraction",
     "source_url": null,
     "confidence": "medium",
-    "updated_at": "2026-03-19T03:00:08.738172+00:00"
+    "updated_at": "2026-03-20T03:00:08.209881+00:00"
+  },
+  {
+    "country": "European Union",
+    "min_rate": 2,
+    "max_rate": 25,
+    "rate_label": "2–25%",
+    "legal_authority": "Section 232",
+    "effective_date": null,
+    "source_name": "ai_extraction",
+    "source_url": "https://www.federalregister.gov/d/2026-03770",
+    "confidence": "high",
+    "updated_at": "2026-03-20T03:00:08.048751+00:00"
   },
   {
     "country": "Canada",
@@ -90,19 +102,7 @@
     "source_name": "ai_extraction",
     "source_url": null,
     "confidence": "medium",
-    "updated_at": "2026-03-19T03:00:08.308947+00:00"
-  },
-  {
-    "country": "European Union",
-    "min_rate": 2,
-    "max_rate": 25,
-    "rate_label": "2–25%",
-    "legal_authority": "Section 232 / EO 14389",
-    "effective_date": null,
-    "source_name": "ai_extraction",
-    "source_url": "federalregister.gov",
-    "confidence": "high",
-    "updated_at": "2026-03-19T03:00:08.516996+00:00"
+    "updated_at": "2026-03-20T03:00:07.873538+00:00"
   },
   {
     "country": "Mexico",
@@ -114,7 +114,7 @@
     "source_name": "ai_extraction",
     "source_url": null,
     "confidence": "medium",
-    "updated_at": "2026-03-19T03:00:08.205736+00:00"
+    "updated_at": "2026-03-20T03:00:07.788838+00:00"
   },
   {
     "country": "Rest of World (Average)",
