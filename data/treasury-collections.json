@@ -1,53 +1,227 @@
 [
   {
-    "period": "2026-02",
-    "period_label": "February 2026",
-    "collections_billions": 26.6,
-    "fytd_billions": 144.3,
-    "yoy_change_pct": 308,
-    "prior_fytd_billions": 35.4,
-    "source": "US Treasury Monthly Treasury Statement, Table 9",
-    "source_url": "https://fiscaldata.treasury.gov/datasets/monthly-treasury-statement/",
-    "updated_at": "2026-03-19"
+    "_metadata": {
+      "source": "DutyBird (dutybird.io)",
+      "generated_at": "2026-03-20T00:00:02.559Z",
+      "record_count": 24,
+      "license": "MIT",
+      "docs": "https://github.com/dutybirdio/us-tariff-data"
+    }
   },
   {
-    "period": "2026-01",
-    "period_label": "January 2026",
-    "collections_billions": 25.1,
-    "fytd_billions": 117.7,
-    "yoy_change_pct": 298,
-    "source": "US Treasury Monthly Treasury Statement, Table 9",
-    "source_url": "https://fiscaldata.treasury.gov/datasets/monthly-treasury-statement/",
-    "updated_at": "2026-03-19"
+    "record_date": "2026-02-28",
+    "classification_desc": "Customs Duties",
+    "current_month_rcpt_outly_amt": 26593808711.49,
+    "current_fytd_rcpt_outly_amt": 144338092069.1,
+    "prior_fytd_rcpt_outly_amt": 35411735190.39,
+    "created_at": "2026-03-12T02:20:30.899882+00:00",
+    "updated_at": "2026-03-12T02:20:30.484+00:00"
   },
   {
-    "period": "2025-12",
-    "period_label": "December 2025",
-    "collections_billions": 24.8,
-    "fytd_billions": 92.6,
-    "yoy_change_pct": 285,
-    "source": "US Treasury Monthly Treasury Statement, Table 9",
-    "source_url": "https://fiscaldata.treasury.gov/datasets/monthly-treasury-statement/",
-    "updated_at": "2026-03-19"
+    "record_date": "2026-01-31",
+    "classification_desc": "Customs Duties",
+    "current_month_rcpt_outly_amt": 27742448220.24,
+    "current_fytd_rcpt_outly_amt": 117744283357.61,
+    "prior_fytd_rcpt_outly_amt": 28164922515.01,
+    "created_at": "2026-03-12T02:20:31.052225+00:00",
+    "updated_at": "2026-03-12T02:20:30.978+00:00"
   },
   {
-    "period": "2025-11",
-    "period_label": "November 2025",
-    "collections_billions": 28.9,
-    "fytd_billions": 67.8,
-    "yoy_change_pct": 310,
-    "source": "US Treasury Monthly Treasury Statement, Table 9",
-    "source_url": "https://fiscaldata.treasury.gov/datasets/monthly-treasury-statement/",
-    "updated_at": "2026-03-19"
+    "record_date": "2025-12-31",
+    "classification_desc": "Customs Duties",
+    "current_month_rcpt_outly_amt": 27892382035.2,
+    "current_fytd_rcpt_outly_amt": 90001835137.37,
+    "prior_fytd_rcpt_outly_amt": 20823506578.43,
+    "created_at": "2026-03-12T02:20:31.382858+00:00",
+    "updated_at": "2026-03-12T02:20:31.139+00:00"
   },
   {
-    "period": "2025-10",
-    "period_label": "October 2025",
-    "collections_billions": 38.9,
-    "fytd_billions": 38.9,
-    "yoy_change_pct": 340,
-    "source": "US Treasury Monthly Treasury Statement, Table 9",
-    "source_url": "https://fiscaldata.treasury.gov/datasets/monthly-treasury-statement/",
-    "updated_at": "2026-03-19"
+    "record_date": "2025-11-30",
+    "classification_desc": "Customs Duties",
+    "current_month_rcpt_outly_amt": 30755952020.41,
+    "current_fytd_rcpt_outly_amt": 62109453101.52,
+    "prior_fytd_rcpt_outly_amt": 14009126014.21,
+    "created_at": "2026-03-12T02:20:31.503933+00:00",
+    "updated_at": "2026-03-12T02:20:31.441+00:00"
+  },
+  {
+    "record_date": "2025-10-31",
+    "classification_desc": "Customs Duties",
+    "current_month_rcpt_outly_amt": 31353501081.11,
+    "current_fytd_rcpt_outly_amt": 31353501081.11,
+    "prior_fytd_rcpt_outly_amt": 7297256976.25,
+    "created_at": "2026-03-12T02:20:31.628804+00:00",
+    "updated_at": "2026-03-12T02:20:31.56+00:00"
+  },
+  {
+    "record_date": "2025-09-30",
+    "classification_desc": "Customs Duties",
+    "current_month_rcpt_outly_amt": 29674953322.24,
+    "current_fytd_rcpt_outly_amt": 194865739872.82,
+    "prior_fytd_rcpt_outly_amt": 77036909944.89,
+    "created_at": "2026-03-12T02:20:31.748832+00:00",
+    "updated_at": "2026-03-12T02:20:31.686+00:00"
+  },
+  {
+    "record_date": "2025-08-31",
+    "classification_desc": "Customs Duties",
+    "current_month_rcpt_outly_amt": 29502942749.54,
+    "current_fytd_rcpt_outly_amt": 165190786550.58,
+    "prior_fytd_rcpt_outly_amt": 69787650476.54,
+    "created_at": "2026-03-12T02:20:31.865144+00:00",
+    "updated_at": "2026-03-12T02:20:31.803+00:00"
+  },
+  {
+    "record_date": "2025-07-31",
+    "classification_desc": "Customs Duties",
+    "current_month_rcpt_outly_amt": 27670054031.4,
+    "current_fytd_rcpt_outly_amt": 135687843801.04,
+    "prior_fytd_rcpt_outly_amt": 62740698927.58,
+    "created_at": "2026-03-12T02:20:31.984512+00:00",
+    "updated_at": "2026-03-12T02:20:31.92+00:00"
+  },
+  {
+    "record_date": "2025-06-30",
+    "classification_desc": "Customs Duties",
+    "current_month_rcpt_outly_amt": 26631664231.77,
+    "current_fytd_rcpt_outly_amt": 108017789769.64,
+    "prior_fytd_rcpt_outly_amt": 55607210736.87,
+    "created_at": "2026-03-12T02:20:32.103555+00:00",
+    "updated_at": "2026-03-12T02:20:32.04+00:00"
+  },
+  {
+    "record_date": "2025-05-31",
+    "classification_desc": "Customs Duties",
+    "current_month_rcpt_outly_amt": 22172564539.21,
+    "current_fytd_rcpt_outly_amt": 81386125537.87,
+    "prior_fytd_rcpt_outly_amt": 49283866068.01,
+    "created_at": "2026-03-12T02:20:32.221092+00:00",
+    "updated_at": "2026-03-12T02:20:32.159+00:00"
+  },
+  {
+    "record_date": "2025-04-30",
+    "classification_desc": "Customs Duties",
+    "current_month_rcpt_outly_amt": 15633917348.71,
+    "current_fytd_rcpt_outly_amt": 59213560998.66,
+    "prior_fytd_rcpt_outly_amt": 44059204366.16,
+    "created_at": "2026-03-12T02:20:32.340878+00:00",
+    "updated_at": "2026-03-12T02:20:32.279+00:00"
+  },
+  {
+    "record_date": "2025-03-31",
+    "classification_desc": "Customs Duties",
+    "current_month_rcpt_outly_amt": 8167908459.56,
+    "current_fytd_rcpt_outly_amt": 43579643649.95,
+    "prior_fytd_rcpt_outly_amt": 37692695638.39,
+    "created_at": "2026-03-12T02:20:32.462347+00:00",
+    "updated_at": "2026-03-12T02:20:32.395+00:00"
+  },
+  {
+    "record_date": "2025-02-28",
+    "classification_desc": "Customs Duties",
+    "current_month_rcpt_outly_amt": 7246812675.38,
+    "current_fytd_rcpt_outly_amt": 35411735190.39,
+    "prior_fytd_rcpt_outly_amt": 31628410744.73,
+    "created_at": "2026-03-12T02:20:32.581358+00:00",
+    "updated_at": "2026-03-12T02:20:32.518+00:00"
+  },
+  {
+    "record_date": "2025-01-31",
+    "classification_desc": "Customs Duties",
+    "current_month_rcpt_outly_amt": 7341415936.58,
+    "current_fytd_rcpt_outly_amt": 28164922515.01,
+    "prior_fytd_rcpt_outly_amt": 25420022514.18,
+    "created_at": "2026-03-12T02:20:32.700315+00:00",
+    "updated_at": "2026-03-12T02:20:32.637+00:00"
+  },
+  {
+    "record_date": "2024-12-31",
+    "classification_desc": "Customs Duties",
+    "current_month_rcpt_outly_amt": 6814380564.22,
+    "current_fytd_rcpt_outly_amt": 20823506578.43,
+    "prior_fytd_rcpt_outly_amt": 18943396538.06,
+    "created_at": "2026-03-12T02:20:32.815887+00:00",
+    "updated_at": "2026-03-12T02:20:32.756+00:00"
+  },
+  {
+    "record_date": "2024-11-30",
+    "classification_desc": "Customs Duties",
+    "current_month_rcpt_outly_amt": 6711869037.96,
+    "current_fytd_rcpt_outly_amt": 14009126014.21,
+    "prior_fytd_rcpt_outly_amt": 13198943683.08,
+    "created_at": "2026-03-12T02:20:32.93683+00:00",
+    "updated_at": "2026-03-12T02:20:32.874+00:00"
+  },
+  {
+    "record_date": "2024-10-31",
+    "classification_desc": "Customs Duties",
+    "current_month_rcpt_outly_amt": 7297256976.25,
+    "current_fytd_rcpt_outly_amt": 7297256976.25,
+    "prior_fytd_rcpt_outly_amt": 6902737488.69,
+    "created_at": "2026-03-12T02:20:33.054878+00:00",
+    "updated_at": "2026-03-12T02:20:32.993+00:00"
+  },
+  {
+    "record_date": "2024-09-30",
+    "classification_desc": "Customs Duties",
+    "current_month_rcpt_outly_amt": 7249259468.35,
+    "current_fytd_rcpt_outly_amt": 77036909944.89,
+    "prior_fytd_rcpt_outly_amt": 80337268464.15,
+    "created_at": "2026-03-12T02:20:33.173802+00:00",
+    "updated_at": "2026-03-12T02:20:33.11+00:00"
+  },
+  {
+    "record_date": "2024-08-31",
+    "classification_desc": "Customs Duties",
+    "current_month_rcpt_outly_amt": 7046951548.96,
+    "current_fytd_rcpt_outly_amt": 69787650476.54,
+    "prior_fytd_rcpt_outly_amt": 73658828355.01,
+    "created_at": "2026-03-12T02:20:33.29062+00:00",
+    "updated_at": "2026-03-12T02:20:33.231+00:00"
+  },
+  {
+    "record_date": "2024-07-31",
+    "classification_desc": "Customs Duties",
+    "current_month_rcpt_outly_amt": 7133488190.71,
+    "current_fytd_rcpt_outly_amt": 62740698927.58,
+    "prior_fytd_rcpt_outly_amt": 67333687473.97,
+    "created_at": "2026-03-12T02:20:33.408559+00:00",
+    "updated_at": "2026-03-12T02:20:33.345+00:00"
+  },
+  {
+    "record_date": "2024-06-30",
+    "classification_desc": "Customs Duties",
+    "current_month_rcpt_outly_amt": 6323344668.86,
+    "current_fytd_rcpt_outly_amt": 55607210736.87,
+    "prior_fytd_rcpt_outly_amt": 60423738280.09,
+    "created_at": "2026-03-12T02:20:33.525675+00:00",
+    "updated_at": "2026-03-12T02:20:33.464+00:00"
+  },
+  {
+    "record_date": "2024-05-31",
+    "classification_desc": "Customs Duties",
+    "current_month_rcpt_outly_amt": 5224661701.85,
+    "current_fytd_rcpt_outly_amt": 49283866068.01,
+    "prior_fytd_rcpt_outly_amt": 53948249997.31,
+    "created_at": "2026-03-12T02:20:33.649156+00:00",
+    "updated_at": "2026-03-12T02:20:33.582+00:00"
+  },
+  {
+    "record_date": "2024-04-30",
+    "classification_desc": "Customs Duties",
+    "current_month_rcpt_outly_amt": 6366508727.77,
+    "current_fytd_rcpt_outly_amt": 44059204366.16,
+    "prior_fytd_rcpt_outly_amt": 47575158248.26,
+    "created_at": "2026-03-12T02:20:33.770342+00:00",
+    "updated_at": "2026-03-12T02:20:33.705+00:00"
+  },
+  {
+    "record_date": "2024-03-31",
+    "classification_desc": "Customs Duties",
+    "current_month_rcpt_outly_amt": 6064284893.66,
+    "current_fytd_rcpt_outly_amt": 37692695638.39,
+    "prior_fytd_rcpt_outly_amt": 41225465181.6,
+    "created_at": "2026-03-12T02:20:33.885553+00:00",
+    "updated_at": "2026-03-12T02:20:33.824+00:00"
   }
 ]
