@@ -1,0 +1,66 @@
+[
+  {
+    "_metadata": {
+      "source": "DutyBird (dutybird.io)",
+      "generated_at": "2026-03-20T00:00:03.745Z",
+      "record_count": 5,
+      "license": "MIT",
+      "docs": "https://github.com/dutybirdio/us-tariff-data"
+    }
+  },
+  {
+    "hts_code": "3904.61.0090",
+    "ch99_heading": "9903.88.15",
+    "description": "Polytetrafluoroethylene (PTFE) in primary forms",
+    "list_number": 1,
+    "expires_at": "2026-11-10T00:00:00+00:00",
+    "status": "active",
+    "source_doc_id": null,
+    "hts_code_normalized": "3904610090",
+    "updated_at": "2026-03-17T18:22:17.455328+00:00"
+  },
+  {
+    "hts_code": "7326.90.8688",
+    "ch99_heading": "9903.88.03",
+    "description": "Other articles of iron or steel — industrial fasteners",
+    "list_number": 2,
+    "expires_at": "2026-11-10T00:00:00+00:00",
+    "status": "active",
+    "source_doc_id": null,
+    "hts_code_normalized": "7326908688",
+    "updated_at": "2026-03-17T18:22:17.455328+00:00"
+  },
+  {
+    "hts_code": "8473.30.1180",
+    "ch99_heading": "9903.88.46",
+    "description": "Parts and accessories of ADP machines — printed circuit assemblies",
+    "list_number": 3,
+    "expires_at": "2026-11-10T00:00:00+00:00",
+    "status": "active",
+    "source_doc_id": null,
+    "hts_code_normalized": "8473301180",
+    "updated_at": "2026-03-17T18:22:17.455328+00:00"
+  },
+  {
+    "hts_code": "8542.31.0001",
+    "ch99_heading": "9903.88.46",
+    "description": "Electronic integrated circuits — processors and controllers",
+    "list_number": 3,
+    "expires_at": "2026-11-10T00:00:00+00:00",
+    "status": "active",
+    "source_doc_id": null,
+    "hts_code_normalized": "8542310001",
+    "updated_at": "2026-03-17T18:22:17.455328+00:00"
+  },
+  {
+    "hts_code": "9031.49.9000",
+    "ch99_heading": "9903.88.46",
+    "description": "Measuring or checking instruments — optical inspection",
+    "list_number": 3,
+    "expires_at": "2026-11-10T00:00:00+00:00",
+    "status": "active",
+    "source_doc_id": null,
+    "hts_code_normalized": "9031499000",
+    "updated_at": "2026-03-17T18:22:17.455328+00:00"
+  }
+]
