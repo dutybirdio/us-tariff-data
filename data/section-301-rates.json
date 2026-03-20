@@ -1,0 +1,131 @@
+[
+  {
+    "_metadata": {
+      "source": "DutyBird (dutybird.io)",
+      "generated_at": "2026-03-20T00:00:03.171Z",
+      "record_count": 10,
+      "license": "MIT",
+      "docs": "https://github.com/dutybirdio/us-tariff-data"
+    }
+  },
+  {
+    "country": "Vietnam",
+    "min_rate": 46,
+    "max_rate": 50,
+    "rate_label": "46–50%",
+    "legal_authority": "IEEPA Executive Order",
+    "effective_date": null,
+    "source_name": "ai_extraction",
+    "source_url": null,
+    "confidence": "medium",
+    "updated_at": "2026-03-19T03:00:08.103671+00:00"
+  },
+  {
+    "country": "Bangladesh",
+    "min_rate": 37,
+    "max_rate": 42,
+    "rate_label": "37–42%",
+    "legal_authority": "IEEPA Executive Order",
+    "effective_date": null,
+    "source_name": "ai_extraction",
+    "source_url": null,
+    "confidence": "medium",
+    "updated_at": "2026-03-19T03:00:08.617185+00:00"
+  },
+  {
+    "country": "Taiwan",
+    "min_rate": 32,
+    "max_rate": 37,
+    "rate_label": "32–37%",
+    "legal_authority": "IEEPA Executive Order",
+    "effective_date": null,
+    "source_name": "ai_extraction",
+    "source_url": null,
+    "confidence": "medium",
+    "updated_at": "2026-03-19T03:00:08.868618+00:00"
+  },
+  {
+    "country": "India",
+    "min_rate": 26,
+    "max_rate": 31,
+    "rate_label": "26–31%",
+    "legal_authority": "IEEPA Executive Order",
+    "effective_date": null,
+    "source_name": "ai_extraction",
+    "source_url": null,
+    "confidence": "medium",
+    "updated_at": "2026-03-19T03:00:08.416133+00:00"
+  },
+  {
+    "country": "China",
+    "min_rate": 3,
+    "max_rate": 28,
+    "rate_label": "3–28%",
+    "legal_authority": "Section 301 / EO 14389",
+    "effective_date": null,
+    "source_name": "ai_extraction",
+    "source_url": "federalregister.gov",
+    "confidence": "high",
+    "updated_at": "2026-03-19T03:00:07.965009+00:00"
+  },
+  {
+    "country": "South Korea",
+    "min_rate": 25,
+    "max_rate": 26,
+    "rate_label": "25–26%",
+    "legal_authority": "KORUS FTA / IEEPA",
+    "effective_date": null,
+    "source_name": "ai_extraction",
+    "source_url": null,
+    "confidence": "medium",
+    "updated_at": "2026-03-19T03:00:08.738172+00:00"
+  },
+  {
+    "country": "Canada",
+    "min_rate": 0,
+    "max_rate": 25,
+    "rate_label": "0–25%",
+    "legal_authority": "USMCA / Section 232 / IEEPA",
+    "effective_date": null,
+    "source_name": "ai_extraction",
+    "source_url": null,
+    "confidence": "medium",
+    "updated_at": "2026-03-19T03:00:08.308947+00:00"
+  },
+  {
+    "country": "European Union",
+    "min_rate": 2,
+    "max_rate": 25,
+    "rate_label": "2–25%",
+    "legal_authority": "Section 232 / EO 14389",
+    "effective_date": null,
+    "source_name": "ai_extraction",
+    "source_url": "federalregister.gov",
+    "confidence": "high",
+    "updated_at": "2026-03-19T03:00:08.516996+00:00"
+  },
+  {
+    "country": "Mexico",
+    "min_rate": 0,
+    "max_rate": 25,
+    "rate_label": "0–25%",
+    "legal_authority": "USMCA / Section 232 / IEEPA",
+    "effective_date": null,
+    "source_name": "ai_extraction",
+    "source_url": null,
+    "confidence": "medium",
+    "updated_at": "2026-03-19T03:00:08.205736+00:00"
+  },
+  {
+    "country": "Rest of World (Average)",
+    "min_rate": 3,
+    "max_rate": 3,
+    "rate_label": "3%",
+    "legal_authority": null,
+    "effective_date": null,
+    "source_name": "ai_extraction",
+    "source_url": "https://budgetmodel.wharton.upenn.edu/t/Tariffs/",
+    "confidence": "high",
+    "updated_at": "2026-03-12T02:45:41.36569+00:00"
+  }
+]
