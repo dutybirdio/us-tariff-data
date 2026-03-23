@@ -2,7 +2,7 @@
   {
     "_metadata": {
       "source": "DutyBird (dutybird.io)",
-      "generated_at": "2026-03-23T00:00:03.224Z",
+      "generated_at": "2026-03-23T06:00:01.474Z",
       "record_count": 10,
       "license": "MIT",
       "docs": "https://github.com/dutybirdio/us-tariff-data"
@@ -18,7 +18,7 @@
     "source_name": "ai_extraction",
     "source_url": null,
     "confidence": "medium",
-    "updated_at": "2026-03-22T03:00:05.966804+00:00"
+    "updated_at": "2026-03-23T03:00:05.491377+00:00"
   },
   {
     "country": "Bangladesh",
@@ -30,7 +30,7 @@
     "source_name": "ai_extraction",
     "source_url": null,
     "confidence": "medium",
-    "updated_at": "2026-03-22T03:00:06.589084+00:00"
+    "updated_at": "2026-03-23T03:00:05.950092+00:00"
   },
   {
     "country": "Taiwan",
@@ -42,7 +42,7 @@
     "source_name": "ai_extraction",
     "source_url": null,
     "confidence": "medium",
-    "updated_at": "2026-03-22T03:00:06.820791+00:00"
+    "updated_at": "2026-03-23T03:00:06.111136+00:00"
   },
   {
     "country": "India",
@@ -54,7 +54,7 @@
     "source_name": "ai_extraction",
     "source_url": null,
     "confidence": "medium",
-    "updated_at": "2026-03-22T03:00:06.349735+00:00"
+    "updated_at": "2026-03-23T03:00:05.755251+00:00"
   },
   {
     "country": "South Korea",
@@ -66,7 +66,7 @@
     "source_name": "ai_extraction",
     "source_url": null,
     "confidence": "medium",
-    "updated_at": "2026-03-22T03:00:06.683485+00:00"
+    "updated_at": "2026-03-23T03:00:06.034679+00:00"
   },
   {
     "country": "Canada",
@@ -76,9 +76,9 @@
     "legal_authority": "USMCA / Section 232",
     "effective_date": null,
     "source_name": "ai_extraction",
-    "source_url": "https://www.federalregister.gov/d/2026-03467",
+    "source_url": "https://www.federalregister.gov/d/2026-03657",
     "confidence": "high",
-    "updated_at": "2026-03-22T03:00:06.212303+00:00"
+    "updated_at": "2026-03-23T03:00:05.676883+00:00"
   },
   {
     "country": "European Union",
@@ -88,9 +88,9 @@
     "legal_authority": "Section 232",
     "effective_date": null,
     "source_name": "ai_extraction",
-    "source_url": "https://www.federalregister.gov/d/2026-03467",
+    "source_url": "https://www.federalregister.gov/d/2026-03657",
     "confidence": "high",
-    "updated_at": "2026-03-22T03:00:06.492978+00:00"
+    "updated_at": "2026-03-23T03:00:05.851686+00:00"
   },
   {
     "country": "Mexico",
@@ -100,9 +100,9 @@
     "legal_authority": "USMCA / Section 232",
     "effective_date": null,
     "source_name": "ai_extraction",
-    "source_url": "https://www.federalregister.gov/d/2026-03467",
+    "source_url": "https://www.federalregister.gov/d/2026-03657",
     "confidence": "high",
-    "updated_at": "2026-03-22T03:00:06.095336+00:00"
+    "updated_at": "2026-03-23T03:00:05.596012+00:00"
   },
   {
     "country": "China",
@@ -112,9 +112,9 @@
     "legal_authority": "Section 301",
     "effective_date": null,
     "source_name": "ai_extraction",
-    "source_url": "https://www.federalregister.gov/d/2026-03467",
+    "source_url": "https://www.federalregister.gov/d/2026-03657",
     "confidence": "high",
-    "updated_at": "2026-03-22T03:00:05.832873+00:00"
+    "updated_at": "2026-03-23T03:00:05.362858+00:00"
   },
   {
     "country": "Rest of World (Average)",
