@@ -2,7 +2,7 @@
   {
     "_metadata": {
       "source": "DutyBird (dutybird.io)",
-      "generated_at": "2026-03-24T00:00:01.775Z",
+      "generated_at": "2026-03-24T06:00:01.522Z",
       "record_count": 10,
       "license": "MIT",
       "docs": "https://github.com/dutybirdio/us-tariff-data"
@@ -18,7 +18,7 @@
     "source_name": "ai_extraction",
     "source_url": null,
     "confidence": "medium",
-    "updated_at": "2026-03-23T03:00:05.491377+00:00"
+    "updated_at": "2026-03-24T03:00:07.864742+00:00"
   },
   {
     "country": "Bangladesh",
@@ -30,7 +30,7 @@
     "source_name": "ai_extraction",
     "source_url": null,
     "confidence": "medium",
-    "updated_at": "2026-03-23T03:00:05.950092+00:00"
+    "updated_at": "2026-03-24T03:00:08.356701+00:00"
   },
   {
     "country": "Taiwan",
@@ -42,7 +42,7 @@
     "source_name": "ai_extraction",
     "source_url": null,
     "confidence": "medium",
-    "updated_at": "2026-03-23T03:00:06.111136+00:00"
+    "updated_at": "2026-03-24T03:00:08.648738+00:00"
   },
   {
     "country": "India",
@@ -54,7 +54,7 @@
     "source_name": "ai_extraction",
     "source_url": null,
     "confidence": "medium",
-    "updated_at": "2026-03-23T03:00:05.755251+00:00"
+    "updated_at": "2026-03-24T03:00:08.177398+00:00"
   },
   {
     "country": "South Korea",
@@ -66,55 +66,55 @@
     "source_name": "ai_extraction",
     "source_url": null,
     "confidence": "medium",
-    "updated_at": "2026-03-23T03:00:06.034679+00:00"
-  },
-  {
-    "country": "Canada",
-    "min_rate": 0,
-    "max_rate": 25,
-    "rate_label": "0–25%",
-    "legal_authority": "USMCA / Section 232",
-    "effective_date": null,
-    "source_name": "ai_extraction",
-    "source_url": "https://www.federalregister.gov/d/2026-03657",
-    "confidence": "high",
-    "updated_at": "2026-03-23T03:00:05.676883+00:00"
-  },
-  {
-    "country": "European Union",
-    "min_rate": 2,
-    "max_rate": 25,
-    "rate_label": "2–25%",
-    "legal_authority": "Section 232",
-    "effective_date": null,
-    "source_name": "ai_extraction",
-    "source_url": "https://www.federalregister.gov/d/2026-03657",
-    "confidence": "high",
-    "updated_at": "2026-03-23T03:00:05.851686+00:00"
-  },
-  {
-    "country": "Mexico",
-    "min_rate": 0,
-    "max_rate": 25,
-    "rate_label": "0–25%",
-    "legal_authority": "USMCA / Section 232",
-    "effective_date": null,
-    "source_name": "ai_extraction",
-    "source_url": "https://www.federalregister.gov/d/2026-03657",
-    "confidence": "high",
-    "updated_at": "2026-03-23T03:00:05.596012+00:00"
+    "updated_at": "2026-03-24T03:00:08.457909+00:00"
   },
   {
     "country": "China",
     "min_rate": 3,
     "max_rate": 25,
     "rate_label": "3–25%",
-    "legal_authority": "Section 301",
+    "legal_authority": "Section 301 / Executive Order 14389",
     "effective_date": null,
     "source_name": "ai_extraction",
-    "source_url": "https://www.federalregister.gov/d/2026-03657",
+    "source_url": "https://www.federalregister.gov/d/2026-03770",
     "confidence": "high",
-    "updated_at": "2026-03-23T03:00:05.362858+00:00"
+    "updated_at": "2026-03-24T03:00:07.47509+00:00"
+  },
+  {
+    "country": "Mexico",
+    "min_rate": 0,
+    "max_rate": 25,
+    "rate_label": "0–25%",
+    "legal_authority": "USMCA / Section 232 / Executive Order 14389",
+    "effective_date": null,
+    "source_name": "ai_extraction",
+    "source_url": "https://www.federalregister.gov/d/2026-03770",
+    "confidence": "medium",
+    "updated_at": "2026-03-24T03:00:07.978555+00:00"
+  },
+  {
+    "country": "Canada",
+    "min_rate": 0,
+    "max_rate": 25,
+    "rate_label": "0–25%",
+    "legal_authority": "USMCA / Section 232 / Executive Order 14389",
+    "effective_date": null,
+    "source_name": "ai_extraction",
+    "source_url": "https://www.federalregister.gov/d/2026-03770",
+    "confidence": "medium",
+    "updated_at": "2026-03-24T03:00:08.08477+00:00"
+  },
+  {
+    "country": "European Union",
+    "min_rate": 2,
+    "max_rate": 25,
+    "rate_label": "2–25%",
+    "legal_authority": "Section 232 / Executive Order 14389",
+    "effective_date": null,
+    "source_name": "ai_extraction",
+    "source_url": "https://www.federalregister.gov/d/2026-03770",
+    "confidence": "high",
+    "updated_at": "2026-03-24T03:00:08.267521+00:00"
   },
   {
     "country": "Rest of World (Average)",
