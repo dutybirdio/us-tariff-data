@@ -2,11 +2,23 @@
   {
     "_metadata": {
       "source": "DutyBird (dutybird.io)",
-      "generated_at": "2026-03-25T00:00:02.176Z",
+      "generated_at": "2026-03-25T06:00:01.791Z",
       "record_count": 10,
       "license": "MIT",
       "docs": "https://github.com/dutybirdio/us-tariff-data"
     }
+  },
+  {
+    "country": "China",
+    "min_rate": 30,
+    "max_rate": 145,
+    "rate_label": "30–145%",
+    "legal_authority": "Section 301",
+    "effective_date": null,
+    "source_name": "ai_extraction",
+    "source_url": null,
+    "confidence": "high",
+    "updated_at": "2026-03-25T03:00:06.024992+00:00"
   },
   {
     "country": "Vietnam",
@@ -18,7 +30,7 @@
     "source_name": "ai_extraction",
     "source_url": null,
     "confidence": "medium",
-    "updated_at": "2026-03-24T03:00:07.864742+00:00"
+    "updated_at": "2026-03-25T03:00:06.151687+00:00"
   },
   {
     "country": "Bangladesh",
@@ -30,7 +42,7 @@
     "source_name": "ai_extraction",
     "source_url": null,
     "confidence": "medium",
-    "updated_at": "2026-03-24T03:00:08.356701+00:00"
+    "updated_at": "2026-03-25T03:00:06.61417+00:00"
   },
   {
     "country": "Taiwan",
@@ -42,7 +54,7 @@
     "source_name": "ai_extraction",
     "source_url": null,
     "confidence": "medium",
-    "updated_at": "2026-03-24T03:00:08.648738+00:00"
+    "updated_at": "2026-03-25T03:00:06.843813+00:00"
   },
   {
     "country": "India",
@@ -54,7 +66,7 @@
     "source_name": "ai_extraction",
     "source_url": null,
     "confidence": "medium",
-    "updated_at": "2026-03-24T03:00:08.177398+00:00"
+    "updated_at": "2026-03-25T03:00:06.447971+00:00"
   },
   {
     "country": "South Korea",
@@ -66,55 +78,43 @@
     "source_name": "ai_extraction",
     "source_url": null,
     "confidence": "medium",
-    "updated_at": "2026-03-24T03:00:08.457909+00:00"
-  },
-  {
-    "country": "China",
-    "min_rate": 3,
-    "max_rate": 25,
-    "rate_label": "3–25%",
-    "legal_authority": "Section 301 / Executive Order 14389",
-    "effective_date": null,
-    "source_name": "ai_extraction",
-    "source_url": "https://www.federalregister.gov/d/2026-03770",
-    "confidence": "high",
-    "updated_at": "2026-03-24T03:00:07.47509+00:00"
-  },
-  {
-    "country": "Mexico",
-    "min_rate": 0,
-    "max_rate": 25,
-    "rate_label": "0–25%",
-    "legal_authority": "USMCA / Section 232 / Executive Order 14389",
-    "effective_date": null,
-    "source_name": "ai_extraction",
-    "source_url": "https://www.federalregister.gov/d/2026-03770",
-    "confidence": "medium",
-    "updated_at": "2026-03-24T03:00:07.978555+00:00"
+    "updated_at": "2026-03-25T03:00:06.733818+00:00"
   },
   {
     "country": "Canada",
     "min_rate": 0,
     "max_rate": 25,
     "rate_label": "0–25%",
-    "legal_authority": "USMCA / Section 232 / Executive Order 14389",
+    "legal_authority": "USMCA / Section 232 / IEEPA Executive Order 14389 (Termination)",
     "effective_date": null,
     "source_name": "ai_extraction",
-    "source_url": "https://www.federalregister.gov/d/2026-03770",
-    "confidence": "medium",
-    "updated_at": "2026-03-24T03:00:08.08477+00:00"
+    "source_url": null,
+    "confidence": "high",
+    "updated_at": "2026-03-25T03:00:06.337098+00:00"
   },
   {
     "country": "European Union",
     "min_rate": 2,
     "max_rate": 25,
     "rate_label": "2–25%",
-    "legal_authority": "Section 232 / Executive Order 14389",
+    "legal_authority": "Section 232 / IEEPA Executive Order 14389 (Termination)",
     "effective_date": null,
     "source_name": "ai_extraction",
-    "source_url": "https://www.federalregister.gov/d/2026-03770",
+    "source_url": null,
     "confidence": "high",
-    "updated_at": "2026-03-24T03:00:08.267521+00:00"
+    "updated_at": "2026-03-25T03:00:06.536723+00:00"
+  },
+  {
+    "country": "Mexico",
+    "min_rate": 0,
+    "max_rate": 25,
+    "rate_label": "0–25%",
+    "legal_authority": "USMCA / Section 232 / IEEPA Executive Order 14389 (Termination)",
+    "effective_date": null,
+    "source_name": "ai_extraction",
+    "source_url": null,
+    "confidence": "high",
+    "updated_at": "2026-03-25T03:00:06.260135+00:00"
   },
   {
     "country": "Rest of World (Average)",
