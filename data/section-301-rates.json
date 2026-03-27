@@ -2,7 +2,7 @@
   {
     "_metadata": {
       "source": "DutyBird (dutybird.io)",
-      "generated_at": "2026-03-27T00:00:01.571Z",
+      "generated_at": "2026-03-27T06:00:03.278Z",
       "record_count": 10,
       "license": "MIT",
       "docs": "https://github.com/dutybirdio/us-tariff-data"
@@ -18,7 +18,7 @@
     "source_name": "ai_extraction",
     "source_url": null,
     "confidence": "medium",
-    "updated_at": "2026-03-26T03:00:08.450285+00:00"
+    "updated_at": "2026-03-27T03:00:05.273769+00:00"
   },
   {
     "country": "Vietnam",
@@ -30,7 +30,7 @@
     "source_name": "ai_extraction",
     "source_url": null,
     "confidence": "medium",
-    "updated_at": "2026-03-26T03:00:08.59183+00:00"
+    "updated_at": "2026-03-27T03:00:05.420866+00:00"
   },
   {
     "country": "Bangladesh",
@@ -42,7 +42,7 @@
     "source_name": "ai_extraction",
     "source_url": null,
     "confidence": "medium",
-    "updated_at": "2026-03-26T03:00:09.272891+00:00"
+    "updated_at": "2026-03-27T03:00:06.063676+00:00"
   },
   {
     "country": "Taiwan",
@@ -54,7 +54,7 @@
     "source_name": "ai_extraction",
     "source_url": null,
     "confidence": "medium",
-    "updated_at": "2026-03-26T03:00:09.462343+00:00"
+    "updated_at": "2026-03-27T03:00:06.439249+00:00"
   },
   {
     "country": "India",
@@ -66,7 +66,7 @@
     "source_name": "ai_extraction",
     "source_url": null,
     "confidence": "medium",
-    "updated_at": "2026-03-26T03:00:09.042564+00:00"
+    "updated_at": "2026-03-27T03:00:05.804436+00:00"
   },
   {
     "country": "South Korea",
@@ -78,43 +78,43 @@
     "source_name": "ai_extraction",
     "source_url": null,
     "confidence": "medium",
-    "updated_at": "2026-03-26T03:00:09.363554+00:00"
+    "updated_at": "2026-03-27T03:00:06.227259+00:00"
   },
   {
     "country": "European Union",
-    "min_rate": 2,
+    "min_rate": 20,
     "max_rate": 25,
-    "rate_label": "2–25%",
-    "legal_authority": "Section 232 / Executive Order 14389",
+    "rate_label": "20–25%",
+    "legal_authority": null,
     "effective_date": null,
     "source_name": "ai_extraction",
-    "source_url": "https://www.federalregister.gov/d/2026-03770",
-    "confidence": "high",
-    "updated_at": "2026-03-26T03:00:09.171281+00:00"
+    "source_url": null,
+    "confidence": "medium",
+    "updated_at": "2026-03-27T03:00:05.915685+00:00"
   },
   {
     "country": "Canada",
     "min_rate": 0,
     "max_rate": 25,
     "rate_label": "0–25%",
-    "legal_authority": "USMCA / Section 232 / Executive Order 14389",
+    "legal_authority": null,
     "effective_date": null,
     "source_name": "ai_extraction",
-    "source_url": "https://www.federalregister.gov/d/2026-03770",
-    "confidence": "high",
-    "updated_at": "2026-03-26T03:00:08.918973+00:00"
+    "source_url": null,
+    "confidence": "medium",
+    "updated_at": "2026-03-27T03:00:05.690227+00:00"
   },
   {
     "country": "Mexico",
     "min_rate": 0,
     "max_rate": 25,
     "rate_label": "0–25%",
-    "legal_authority": "USMCA / Section 232 / Executive Order 14389",
+    "legal_authority": null,
     "effective_date": null,
     "source_name": "ai_extraction",
-    "source_url": "https://www.federalregister.gov/d/2026-03770",
-    "confidence": "high",
-    "updated_at": "2026-03-26T03:00:08.750547+00:00"
+    "source_url": null,
+    "confidence": "medium",
+    "updated_at": "2026-03-27T03:00:05.543838+00:00"
   },
   {
     "country": "Rest of World (Average)",
